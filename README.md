@@ -1,2 +1,2 @@
-# Knn-SkLearn
-Knn with Iris Setosa SKLearn
+# Knn
+Knn on Python
